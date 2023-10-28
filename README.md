@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @red-eagle131
-- 👀 I’m interested in Web Development and Programming & DSA
-- 🌱 I’m currently studying in IIT Roorkee
+- 👀 I’m interested in Software Development & Web Development
+- 🌱 Graduated from IIT Roorkee @2023
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :- 
+- 📫 How to reach me:- 
 - 1) Gmail:-harshitkg1234@gmail.com
 - 2) LinkedIn:- https://www.linkedin.com/in/harshitg10/
 
